@@ -30,8 +30,24 @@ If you want more hard problems , look at the “Graph Algorithms” and “Tree 
 - Read Chapters 11,12,13,14 from Competitive Programmer's Handbook.
 - Read sections 7.1, 7.2 and 10.1 from Guide to Competitive Programming.
 - (Optional) Read Chapter 20 from Introduction to Algorithms. Read Week-11 and Week-12 material from CS213.
--
- 
+
+## Questions to be submitted:
+1. [Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C) (w5_q1.cpp)
+2. [Magnitude - Hard](https://codeforces.com/problemset/problem/1760/F) (w5_q2.cpp)
+3. [Large Addition](https://codeforces.com/problemset/problem/1512/G) (w5_q3.cpp)
+
+## Questions for your practice
+1. [Long Legs](https://codeforces.com/problemset/problem/224/B)
+2. [Exam in MAC](https://codeforces.com/problemset/problem/1215/C)
+3. [Cobb](https://codeforces.com/problemset/problem/1557/B)
+4. [Colored Rectangles](https://codeforces.com/problemset/problem/1311/D)
+5. [Modulo Sum](https://codeforces.com/problemset/problem/489/C)
+6. [The least round way](https://codeforces.com/problemset/problem/2/B)
+7. [Odd-Even Subsequence](https://codeforces.com/problemset/problem/1370/C)
+8. [Placing Jinas](https://codeforces.com/problemset/problem/1582/D)
+9. [Fibonacci Strings](https://codeforces.com/problemset/problem/1505/A)
+10. [Yet Another Yet Another Task](https://codeforces.com/problemset/problem/1359/C)
+
 # Week 4 and Week 5
 
 - Read Chapters 21,22,23,24,25 from Competitive Programmer's Handbook.
