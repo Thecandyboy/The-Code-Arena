@@ -6,6 +6,38 @@ You'll be solving these problems and uploading your solutions in your designated
 
 Let’s stay consistent, challenge ourselves, and level up together in the world of competitive programming!
 
+# Week 3 
+
+- Read Chapters 6, 7 and 10 from Competitive Programmer's Handbook.
+- Read Chapter 6 from Guide to Competitive Programming.
+- If you are unable to understand DP through the above resources, then you can watch these videos (maybe the starting 2-3 at 2X). You can also study Chapter 11 from Programming Challenges.
+
+## Questions to be submitted:
+1. [Tasks and Deadlines](https://cses.fi/problemset/task/1630) (w3_q1.cpp)
+2. [Factory Machines](https://cses.fi/problemset/task/1620) (w3_q2.cpp)
+3. [Dice Combinations](https://cses.fi/problemset/task/1635) (w3_q3.cpp)
+4. [Edit Distance](https://cses.fi/problemset/task/1639) (w3_q4.cpp)
+5. [Counting Towers](https://cses.fi/problemset/task/2413) (w3_q5.cpp)
+6. [Knapsack](https://cses.fi/problemset/task/1158) (w3_q6.cpp) (Check Q22)
+7. [Stick Divisions](https://cses.fi/problemset/task/1161) (w3_q7.cpp)
+8. [Sequence](https://cses.fi/problemset/task/1145) (w3_q8.cpp)
+
+## Questions for your practice:
+
+1. [Making anti-palindromes](https://codeforces.com/problemset/problem/1682/C)
+2. [Caesar's Legion](https://codeforces.com/problemset/problem/1185/E) (Check how to implement)
+3. [Minimize Median](https://codeforces.com/problemset/problem/1486/C2)
+4. [Running Miles](https://codeforces.com/problemset/problem/1530/D)
+5. [Baby Ehab Partitions Again](https://codeforces.com/problemset/problem/1323/C)
+6. [Counting Tiles](https://codeforces.com/problemset/problem/1042/B)
+7. [Projects](https://cses.fi/problemset/task/1634)
+8. [Counting Numbers](https://cses.fi/problemset/task/2220)
+9. [Search in Parallel](https://codeforces.com/problemset/problem/1531/B)
+10. [LCS](https://cses.fi/problemset/task/1639)
+11. [Minimizing the Sum](https://codeforces.com/problemset/problem/1237/C2)
+12. [Almost Increasing Subsequence](https://codeforces.com/problemset/problem/1205/B)
+
+
 # Week 2 (28 May - 03 Jun)
 
 - Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
