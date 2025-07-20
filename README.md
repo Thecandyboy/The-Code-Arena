@@ -6,6 +6,73 @@ You'll be solving these problems and uploading your solutions in your designated
 
 Let’s stay consistent, challenge ourselves, and level up together in the world of competitive programming!
 
+# Week 7 and 8 (Optional)
+- This week contains concepts of Advanced Graph Algorithms , Take your in understanding it and solve the questions
+- Read Chapters 15,16,17,18,19,20 from Competitive Programmer's Handbook
+- Complete Chapters 7 and 10 from Guide to Competitive Programming.
+
+## Questions for your practice
+
+1. [Art Gallery on Graph](https://cses.fi/problemset/task/1682) (w6_q1.cpp)
+2. [Round Trip](https://cses.fi/problemset/task/1669) (w6_q2.cpp) *(Scroll Down)*
+3. [Game Routes](https://cses.fi/problemset/task/1681) (w6_q3.cpp)
+4. [Round Dance](https://cses.fi/problemset/task/1726) (w6_q4.cpp)
+5. [Longest Path](https://cses.fi/problemset/task/1680) (w6_q5.cpp)
+6. [Giant Pizza](https://cses.fi/problemset/task/1684) (w6_q6.cpp)
+7. [Tree Distances I](https://cses.fi/problemset/task/1132) (w6_q7.cpp)
+8. [Walk](https://cses.fi/problemset/task/1667) (w6_q8.cpp)
+9. [Military Problem](https://cses.fi/problemset/task/1687) (w6_q9.cpp)
+
+If you want more hard problems , look at the “Graph Algorithms” and “Tree Algorithms” sections from [CSES](https://cses.fi/problemset/).
+    
+
+# Week 6 
+- Read Chapters 11,12,13,14 from Competitive Programmer's Handbook.
+- Read sections 7.1, 7.2 and 10.1 from Guide to Competitive Programming.
+- (Optional) Read Chapter 20 from Introduction to Algorithms. Read Week-11 and Week-12 material from CS213.
+-
+ 
+# Week 4 and Week 5
+
+- Read Chapters 21,22,23,24,25 from Competitive Programmer's Handbook.
+- Go through Chapter 11 from Guide to Competitive Programming.
+- (Optional) Read Chapter 31 from Introduction to Algorithms.
+- (Optional) Complete Chapter 5 from Steven.
+- (Optional) Complete Chapters 6 and 7 from Programming Challenges.
+
+## Questions to be submitted:
+
+1. [Exponentiation II](https://cses.fi/problemset/task/1712) (w4_q1.cpp)
+2. [Sum of Divisors](https://cses.fi/problemset/task/1082) (w4_q2.cpp)
+3. [Binomial Coefficients](https://cses.fi/problemset/task/1079) (w4_q3.cpp)
+4. [Distributing Apples](https://cses.fi/problemset/task/1075) (w4_q4.cpp)
+5. [Inversion Probability](https://cses.fi/problemset/task/1726) (w4_q5.cpp)
+6. [Nim Game I](https://cses.fi/problemset/task/2205) (w4_q6.cpp)
+7. [Grundy’s Game](https://cses.fi/problemset/task/2206) (w4_q7.cpp)
+8. [Divisor Analysis](https://cses.fi/problemset/task/2182) (w4_q8.cpp)
+9. [Climbing the Tree](https://cses.fi/problemset/task/1707) (w4_q9.cpp)
+10. [Two Divisors](https://cses.fi/problemset/task/1203) (w4_q10.cpp)
+
+---
+
+## Questions for your practice
+
+1. [Bracket Sequences II](https://codeforces.com/problemset/problem/219/D)
+2. [Factorials and Powers of Two](https://codeforces.com/problemset/problem/1634/B)
+3. [Controllers](https://codeforces.com/problemset/problem/1651/B)
+4. [Counting Necklaces](https://codeforces.com/problemset/problem/1287/D)
+5. [Nim Game II](https://codeforces.com/problemset/problem/1472/E)
+6. [Candy Lottery](https://codeforces.com/problemset/problem/1422/B)
+7. [Product 1 Modulo N](https://codeforces.com/problemset/problem/1514/B)
+8. [Three Integers](https://codeforces.com/problemset/problem/1311/C)
+9. [Add One](https://codeforces.com/problemset/problem/1517/B)
+10. [Kuroni](https://codeforces.com/problemset/problem/1305/B)
+11. [Jellyfish and Green Apple](https://codeforces.com/problemset/problem/1469/B)
+12. [Buying Jewels](https://codeforces.com/problemset/problem/1339/B)
+
+As and when you get time, complete the “Mathematics” section from [CSES](https://cses.fi/problemset/mathematics/).
+
+
 # Week 3 
 
 - Read Chapters 6, 7 and 10 from Competitive Programmer's Handbook.
@@ -38,7 +105,7 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 12. [Almost Increasing Subsequence](https://codeforces.com/problemset/problem/1205/B)
 
 
-# Week 2 (28 May - 03 Jun)
+# Week 2
 
 - Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
 - Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
@@ -66,7 +133,7 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 9. [Sliding Window Median](https://cses.fi/problemset/task/1076)
 10. [Sliding Window Cost](https://cses.fi/problemset/task/1077)
 
-# Week 1 (21 May - 27 May)
+# Week 1
 
 - Complete reading the first 4 chapters from [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
 - Create your accounts on [CSES](https://cses.fi/), [Codeforces](https://codeforces.com/), [Codechef](https://www.codechef.com/), and [Leetcode](https://leetcode.com/).
