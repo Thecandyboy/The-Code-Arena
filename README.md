@@ -13,28 +13,27 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 
 ## Questions for your practice
 
-1. [Art Gallery on Graph](https://cses.fi/problemset/task/1682) (w6_q1.cpp)
-2. [Round Trip](https://cses.fi/problemset/task/1669) (w6_q2.cpp) *(Scroll Down)*
-3. [Game Routes](https://cses.fi/problemset/task/1681) (w6_q3.cpp)
-4. [Round Dance](https://cses.fi/problemset/task/1726) (w6_q4.cpp)
-5. [Longest Path](https://cses.fi/problemset/task/1680) (w6_q5.cpp)
-6. [Giant Pizza](https://cses.fi/problemset/task/1684) (w6_q6.cpp)
-7. [Tree Distances I](https://cses.fi/problemset/task/1132) (w6_q7.cpp)
-8. [Walk](https://cses.fi/problemset/task/1667) (w6_q8.cpp)
-9. [Military Problem](https://cses.fi/problemset/task/1687) (w6_q9.cpp)
+1. [Art Gallery on Graph](https://cses.fi/problemset/task/1682) 
+2. [Round Trip](https://cses.fi/problemset/task/1669) 
+3. [Game Routes](https://cses.fi/problemset/task/1681) 
+4. [Round Dance](https://cses.fi/problemset/task/1726) 
+5. [Longest Path](https://cses.fi/problemset/task/1680) 
+6. [Giant Pizza](https://cses.fi/problemset/task/1684) 
+7. [Tree Distances I](https://cses.fi/problemset/task/1132) 
+8. [Walk](https://cses.fi/problemset/task/1667) 
+9. [Military Problem](https://cses.fi/problemset/task/1687)
 
 If you want more hard problems , look at the “Graph Algorithms” and “Tree Algorithms” sections from [CSES](https://cses.fi/problemset/).
     
-
 # Week 6 
 - Read Chapters 11,12,13,14 from Competitive Programmer's Handbook.
 - Read sections 7.1, 7.2 and 10.1 from Guide to Competitive Programming.
 - (Optional) Read Chapter 20 from Introduction to Algorithms. Read Week-11 and Week-12 material from CS213.
 
 ## Questions to be submitted:
-1. [Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C) (w5_q1.cpp)
-2. [Magnitude - Hard](https://codeforces.com/problemset/problem/1760/F) (w5_q2.cpp)
-3. [Large Addition](https://codeforces.com/problemset/problem/1512/G) (w5_q3.cpp)
+1. [Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C) (w6_q1.cpp)
+2. [Magnitude - Hard](https://codeforces.com/problemset/problem/1760/F) (w6_q2.cpp)
+3. [Large Addition](https://codeforces.com/problemset/problem/1512/G) (w6_q3.cpp)
 
 ## Questions for your practice
 1. [Long Legs](https://codeforces.com/problemset/problem/224/B)
@@ -63,11 +62,11 @@ If you want more hard problems , look at the “Graph Algorithms” and “Tree 
 3. [Binomial Coefficients](https://cses.fi/problemset/task/1079) (w4_q3.cpp)
 4. [Distributing Apples](https://cses.fi/problemset/task/1075) (w4_q4.cpp)
 5. [Inversion Probability](https://cses.fi/problemset/task/1726) (w4_q5.cpp)
-6. [Nim Game I](https://cses.fi/problemset/task/2205) (w4_q6.cpp)
-7. [Grundy’s Game](https://cses.fi/problemset/task/2206) (w4_q7.cpp)
-8. [Divisor Analysis](https://cses.fi/problemset/task/2182) (w4_q8.cpp)
-9. [Climbing the Tree](https://cses.fi/problemset/task/1707) (w4_q9.cpp)
-10. [Two Divisors](https://cses.fi/problemset/task/1203) (w4_q10.cpp)
+6. [Nim Game I](https://cses.fi/problemset/task/2205) (w5_q1.cpp)
+7. [Grundy’s Game](https://cses.fi/problemset/task/2206) (w5_q2.cpp)
+8. [Divisor Analysis](https://cses.fi/problemset/task/2182) (w5_q3.cpp)
+9. [Climbing the Tree](https://cses.fi/problemset/task/1707) (w5_q4.cpp)
+10. [Two Divisors](https://cses.fi/problemset/task/1203) (w5_q5.cpp)
 
 ---
 
